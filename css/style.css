@@ -1,0 +1,23 @@
+
+/*font-family: 'Inter', sans-serif;*/
+:root {
+  --bitcoin-orange: rgb(247, 147, 26);
+  --soft-orange: rgb(255, 233, 213);
+  --secondary-blue: rgb(26, 154, 247);
+  --soft-blue: rgb(231, 245, 255);
+  --warm-black: rgb(32, 30, 28);
+  --black: rgb(40, 38, 35);
+  --gray: rgb(186, 186, 186);
+  --off-white: rgb(241, 248, 247);
+  --just-white: rgb(255, 255, 255);
+
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62,65%;
+  font-family: 'DM Sans', sans-serif;;
+}
