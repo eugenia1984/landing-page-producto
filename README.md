@@ -7,10 +7,10 @@ I am taking the **Full Stack** course with **Programando Desde Tu Casa**  and as
 ## What I did 🚀
 * Header with the logo, text and a call to action to go to the plans.
 * Second section with tables.
-* Third section that show the benefits of teh product.
+* Third section that show the benefits of the product.
 * Fourth section with an image and a text.
 * Fifth section with the plans.
-* The footer with links and teh logo.
+* The footer with links and the logo.
 
 ## Content 🚀
 This Project only has one master branch, it was a small project so it did not need more branches.
